@@ -1,0 +1,56 @@
+[
+      {
+            "route_id": 0,
+            "route_weight": 0.34500000000000003,
+            "route_volume": 751.1439999999999,
+            "vehicle_id": 0,
+            "veh_max_weight": 5500,
+            "veh_max_volume": 777,
+            "route_cost": 28000
+      },
+      {
+            "route_id": 1,
+            "route_weight": 0.258,
+            "route_volume": 543.998,
+            "vehicle_id": 1,
+            "veh_max_weight": 5000,
+            "veh_max_volume": 706,
+            "route_cost": 47680
+      },
+      {
+            "route_id": 2,
+            "route_weight": 0.263,
+            "route_volume": 508.43499999999995,
+            "vehicle_id": 2,
+            "veh_max_weight": 4500,
+            "veh_max_volume": 635,
+            "route_cost": 23296
+      },
+      {
+            "route_id": 3,
+            "route_weight": 0,
+            "route_volume": 0,
+            "vehicle_id": 3,
+            "veh_max_weight": 3500,
+            "veh_max_volume": 425,
+            "route_cost": 0
+      },
+      {
+            "route_id": 4,
+            "route_weight": 0,
+            "route_volume": 0,
+            "vehicle_id": 4,
+            "veh_max_weight": 1200,
+            "veh_max_volume": 265,
+            "route_cost": 0
+      },
+      {
+            "route_id": 5,
+            "route_weight": 0,
+            "route_volume": 0,
+            "vehicle_id": 5,
+            "veh_max_weight": 600,
+            "veh_max_volume": 106,
+            "route_cost": 0
+      }
+]
